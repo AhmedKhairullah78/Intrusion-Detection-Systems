@@ -1,3 +1,3 @@
-# Intrusion-Detection-Systems
-As the name of the project suggests, it is designed to detect any attack from outsiders, and the system will issue an alert by sending a notification to the owner or user. The system works to find out if the person is one of the owners of the facility, familiar to them, or represents a danger. Once this is known, the system prevents the attack by detecting the stranger and knowing whether he has a weapon or not. 
-On the other hand, the system is activelpredefinedy working to prevent an attack from succeeding. If an intrusion is detected, it will respond based on commands. The responses may include blocking the movement of the intruder and sending a notification to the facility owner, and the feature of closing all entrances and exits to the place will be activated automatically
+# firepy
+كيفية ربط فايربيس داتابيس بالبايثون وتطبيق عمليات قراءة وكتابة على الداتابيس
+ `pip install firebase_admin`
